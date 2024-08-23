@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assignment-madmachine/static/css/main.e6c13ad2.css",
+    "main.js": "/assignment-madmachine/static/js/main.8ff8dd45.js",
+    "static/js/453.3a3e5ac7.chunk.js": "/assignment-madmachine/static/js/453.3a3e5ac7.chunk.js",
+    "index.html": "/assignment-madmachine/index.html",
+    "main.e6c13ad2.css.map": "/assignment-madmachine/static/css/main.e6c13ad2.css.map",
+    "main.8ff8dd45.js.map": "/assignment-madmachine/static/js/main.8ff8dd45.js.map",
+    "453.3a3e5ac7.chunk.js.map": "/assignment-madmachine/static/js/453.3a3e5ac7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8ff8dd45.js"
+  ]
+}
